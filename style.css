@@ -1,13 +1,18 @@
 .left-section{
-    height: 800px;
+    height: 1000px;
     width: 30%;
-    max-width: 30%;
-    background-color: brown;
+    background-color:#3266a8;
+    float: left;
 }
 body{
     margin: 0px;
 }
-.left-section-img{
-    width: 100%;
-    height: auto;
+
+.right-section{
+    width: 70%;
+    height: 1000px;
+    background-color: rgb(235, 240, 240);
+    float: left;
+    color: black;
+    font-family: Georgia;
 }
