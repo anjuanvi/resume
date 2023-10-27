@@ -1,5 +1,5 @@
 .left-section{
-    height: 1000px;
+    height: 1200px;
     width: 30%;
     background-color:#3266a8;
     float: left;
@@ -10,7 +10,7 @@ body{
 
 .right-section{
     width: 70%;
-    height: 1000px;
+    height: 1100px;
     background-color: rgb(235, 240, 240);
     float: left;
     color: black;
